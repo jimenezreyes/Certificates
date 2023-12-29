@@ -6,6 +6,10 @@ In this repository, you will find all the certificates that support my skills, a
 
 
 ## Certificate Repository
+		
+  - Data Analysis
+  
+    | ![Certificate](https://github.com/jimenezreyes/Certificates/blob/main/Coursera%20838EBSCWNFEQ.png) |
+    |:---------------------------:|
+    |  |
 
-### Python
-- 

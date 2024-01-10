@@ -13,6 +13,12 @@ In this repository, you will find all the certificates that support my skills, a
     |:---------------------------:|
     |  |
 
+- Big Data:
+  - Big Data Technician:
+    | ![Certificate](https://github.com/jimenezreyes/Certificates/blob/main/Certificado%20big%20data.jpg) |
+    |:---------------------------:|
+    | . |
+    
 - Cybersecurity:
   - Cybersecurity with Google:
     | ![Certificate](https://github.com/jimenezreyes/Certificates/blob/main/Coursera%20D66M3UY4AM65.jpg) |
